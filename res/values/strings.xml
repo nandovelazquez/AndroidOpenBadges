@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">OpenBadgesTest</string>
+    <string name="badges">Badges</string>
+	<string name="email">email</string>
+	<string name="email_not_found">Email not found</string>
+	<string name="email_instructions">If you don\'t have an email registered with Mozilla you have to 
+	    							register one on </string>
+	<string name="groups">Groups</string>
+	<string name="invalid_email">The email is invalid</string>
+	<string name="login">Log In</string>
+	<string name="logging">Loggin&#8230;</string>
+	<string name="no_groups_found">No groups found</string>
+	<string name="no_badges_found">No badges found</string>
+	<string name="no_network_connection">There is no internet connection</string>
+	<string name="ok">OK</string>
+	<string name="open_badges">Open Badges</string>
+	<string name="logged_success">Loggin success!</string>
+	
+</resources>
